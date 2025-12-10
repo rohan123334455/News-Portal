@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rohan"
+    },
+    {
+      "id": 2,
+      "name": "Bin"
+    },
+    {
+      "id": 3,
+      "name": "Rifat"
+    } 
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Welcome to the News Portal",
+      "body": "This is a sample news article.",
+      "author_id": 1,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Great start!",
+          "user_id": 2,
+          "timestamp": "2025-01-01T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "901c",
+      "title": "Hello, Myself Rifat ",
+      "body": "Hello Hello",
+      "author_id": 1,
+      "comments": []
+    },
+    {
+      "id": "3d32",
+      "title": "Hello, Myself Rifat ",
+      "body": "Hello Hello",
+      "author_id": 1,
+      "comments": []
+    }
+  ]
+}
